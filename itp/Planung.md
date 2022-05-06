@@ -47,7 +47,7 @@ Im Projekthandbuch sollen werden folgende Dinge definiert:
 -	Aus dem Projektbalkenplan zu extrahieren; Liste aller Meilensteine im Projekt; Abstand mind. 1 Monat zwischen den Meilensteinen
 
 ###	Projektbalkenplan
-o	Abbildung des Projektes in einem zeitlichen Verlauf; Sollten an einem AP mehrere Personen eingeteilt sein, so sind mehrere „Subprozesse“ zu erstellen
+-	Abbildung des Projektes in einem zeitlichen Verlauf; Sollten an einem AP mehrere Personen eingeteilt sein, so sind mehrere „Subprozesse“ zu erstellen
 
 ### Projektkostenplan
 - Auflistung der Kosten, aufgelistet nach AP, übergeordneten Prozessen oder gar dem gesamten Teil (Teil von PADIT)
