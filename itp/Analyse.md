@@ -70,9 +70,9 @@ Fehler beim Modellieren
 -	Kunde ist keine Unternehmensorganisation
 -	Das IT System kann nicht verantwortlich für etwas ein
 
-![GPM.png](GPM.png)
+![](diagramme/Geschäftsprozessmodell.png)
 
-### UseCase-Diagramm 
+### UseCase-Diagramm
 
 -	Use Case im Modell
 -	Behandeln das System und seine Funktionalitäten (diese sind aus dem Geschäftsprozessmodell)
@@ -84,4 +84,4 @@ Teile des Modells:
 -	Use Case (Benennung mit Subjekt + Prädikat: Sind meist im Geschäftsprozessmodell vorhanden
 -	Strich als Verbindung
 
-![UCD.png](UCD.png)
+![](diagramme/UseCaseDiagramm.png)
