@@ -4,8 +4,8 @@ Design unterteilt sich in
 -	Grobentwurf
 -	Feinentwurf
 
--	Im Laufe eines Projektes werden verschiedene Sichten (Diagramme) auf ein System erstellt
--	System muss "prinzipiell" konzipiert werden
+Im Laufe eines Projektes werden verschiedene Sichten (Diagramme) auf ein System erstellt
+System muss "prinzipiell" konzipiert werden
 
 Architektur muss festgelegt werden
 -	OS
