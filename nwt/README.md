@@ -9,4 +9,4 @@
 7. [Auswertung von Konfigurationen und Tabellen](kap07.md)
 
 
-Dokumentation der Übungstunden hier zu finden: https://youtu.be/1bamZJofvNw
+Dokumentation der Übungsstunden hier zu finden: https://youtu.be/1bamZJofvNw
