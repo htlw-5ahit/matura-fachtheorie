@@ -7,3 +7,6 @@
 5. [Routing Protokolle einrichten](kap05.md)
 6. [Access Control Listen konfigurieren](kap06.md)
 7. [Auswertung von Konfigurationen und Tabellen](kap07.md)
+
+
+Dokumentation der Übungstunden hier zu finden: https://youtu.be/1bamZJofvNw
