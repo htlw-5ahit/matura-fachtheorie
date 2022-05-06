@@ -70,7 +70,7 @@ Fehler beim Modellieren
 -	Kunde ist keine Unternehmensorganisation
 -	Das IT System kann nicht verantwortlich für etwas ein
 
-![GMP.png](GMP.png)
+![GPM.png](GPM.png)
 
 ### UseCase-Diagramm 
 
