@@ -22,15 +22,22 @@ Für das Definieren von Zielen gilt das SMART – Kriterium:
 Im Projekthandbuch sollen werden folgende Dinge definiert:
 
 ### Projektauftrag
-- Worum geht es im Projekt? Wie lang soll es dauern? Beginn und Ende des Projekts? Projektziele und Nicht-Ziele? Auftraggeber, Projektleiter und Projektteam?
+- Worum geht es im Projekt?
+- Wie lang soll es dauern?
+- Beginn und Ende des Projekts?
+- Projektziele und Nicht-Ziele?
+- Auftraggeber, Projektleiter und Projektteam?
 
 ### Projektzielplan
--	Hauptziele des Projektes genauer erläutern/ Projektziele mit Zahlen definieren, diese müssen (Spezifisch, Messbar, Ausführbar, Realistisch und Terminierbar sein) 
+-	Hauptziele des Projektes genauer erläutern/Projektziele mit Zahlen definieren
+-	Diese müssen SMART (Spezifisch, Messbar, Ausführbar, Realistisch und Terminierbar) sein 
 
-### 	Projektumwelt-Analyse
--	Welchen Einfluss gibt es auf dem Projekt, vor allem von außen; Beurteilung der Umwelten, Typ der Beziehung definieren und Maßnahmen definieren
+### Projektumwelt-Analyse
+-	Welchen Einfluss gibt es auf dem Projekt, vor allem von außen
+-	Beurteilung der Umwelten
+-	Typ der Beziehung definieren und Maßnahmen definieren
 
-### 	Projektorganigramm
+### Projektorganigramm
 -	Aufbau der unternehmensinternen Struktur, die im Projekt beteiligt sind
 
 ### Betrachtungsobjektplan/ Objektstrukturplan
@@ -41,25 +48,38 @@ Im Projekthandbuch sollen werden folgende Dinge definiert:
 -	Innerhalb einer Phase ist eine genauere Unterteilung möglich (siehe Plan und MS Projekt)
 
 ###	Arbeitspaket-Spezifikation
--	Projektstrukturplan-Code + Titel; AP-Inhalt, AP-Nicht-Inhalt, AP-Ergebnisse, AP-Leistungsfortschritt; Genaue Definition, des AP (Aufgabe, Termin, …)
+-	Projektstrukturplan-Code + Titel
+-	AP-Inhalt
+-	AP-Nicht-Inhalt
+-	AP-Ergebnisse
+-	AP-Leistungsfortschritt
+-	Genaue Definition, des AP (Aufgabe, Termin, …)
 
 ### Projektmeilensteinplan
--	Aus dem Projektbalkenplan zu extrahieren; Liste aller Meilensteine im Projekt; Abstand mind. 1 Monat zwischen den Meilensteinen
+-	Aus dem Projektbalkenplan zu extrahieren
+-	Liste aller Meilensteine im Projekt
+-	Abstand mind. 1 Monat zwischen den Meilensteinen
 
 ###	Projektbalkenplan
--	Abbildung des Projektes in einem zeitlichen Verlauf; Sollten an einem AP mehrere Personen eingeteilt sein, so sind mehrere „Subprozesse“ zu erstellen
+-	Abbildung des Projektes in einem zeitlichen Verlauf
+-	Sollten an einem AP mehrere Personen eingeteilt sein, so sind mehrere „Subprozesse“ zu erstellen
 
 ### Projektkostenplan
 - Auflistung der Kosten, aufgelistet nach AP, übergeordneten Prozessen oder gar dem gesamten Teil (Teil von PADIT)
 
 ### Projektkommunikationsstrukturen
--	Definition von Sitzung hier, also Kick-Off, Weekly-Meeting, …; Definition von Inhalten der Meetings mit ihren Teilnehmern
+-	Definition von Sitzung hier, also Kick-Off, Weekly-Meeting, …
+-	Definition von Inhalten der Meetings mit ihren Teilnehmern
 
 ### Projektspielregeln
--	Definition für die Organisation des Projekts; Wo wird was gemacht, wo ist was erlaubt, nach welchen Modellen wird gearbeitet
+-	Definition für die Organisation des Projekts
+-	Wo wird was gemacht, wo ist was erlaubt, nach welchen Modellen wird gearbeitet
 
 ### Projektrisikoanalyse
--	Analyse der einzelnen AP auf ihr Risiko; Definition des vermuteten Schadens; Versuch der Definition, was dagegen getan werden kann; Definition der Schadensbegrenzung für das Eintreten des Risikos 
+-	Analyse der einzelnen AP auf ihr Risiko
+-	Definition des vermuteten Schadens
+-	Versuch der Definition, was dagegen getan werden kann
+-	Definition der Schadensbegrenzung für das Eintreten des Risikos 
 
 ### Projektdokumentation
 -	Kapitel für Festlegung, welche Dokumente wann erzeugt werden und wo gespeichert werden
@@ -73,5 +93,8 @@ Im Projekthandbuch sollen werden folgende Dinge definiert:
 ## PADIT-Modell
 
 Diese sind allerdings nicht der Teil der Planung des PADIT-Modells, lediglich Teil des Projekthandbuchs, wie zuvor schon beschrieben.
-Planung bedeutet also die Projektumstände und den Projektablauf genauer zu definieren. Hierzu zieht man im Regelfall technische Hilfsmittel heran. Hierfür bietet sich das Programm MS-Project an, ein Planungsprogramm, welches von Microsoft stammt und die meisten geforderten Pläne erstellen kann.
+
+Planung bedeutet also die Projektumstände und den Projektablauf genauer zu definieren. Hierzu zieht man im Regelfall technische Hilfsmittel heran. 
+
+Hierfür bietet sich das Programm MS-Project an, ein Planungsprogramm, welches von Microsoft stammt und die meisten geforderten Pläne erstellen kann.
 Beispielsweise sind in MS-Project ganz einfach der Projektbalkenplan, der Projektkostenplan, der Ressourcen-Plan (Definition, Einsatz, Verteilung, Auslastung, …) und viel Weiteres zu definieren. Für das Projekthandbuch bietet es sich dann an, nur mehr Ausschnitt oder vermerke aus bzw. auf die Datei zu machen.
