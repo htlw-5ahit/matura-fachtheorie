@@ -70,7 +70,7 @@ Fehler beim Modellieren
 -	Kunde ist keine Unternehmensorganisation
 -	Das IT System kann nicht verantwortlich für etwas ein
 
-![](diagramme/Geschäftsprozessmodell.png)
+![](diagramme/Geschaeftsprozessmodell.png)
 
 ### UseCase-Diagramm
 
