@@ -1,5 +1,10 @@
 # Router on a stick
 
+- [Router](#router)
+- [Switch](#switch)
+- [Computer](#computer)
+- [Pings](#pings)
+
 ## Router
 
 ```
@@ -63,3 +68,18 @@ Switch(config-if-range)#exit
 ## Pings
 
 ![](PC0-Pings.png)
+
+## Access List
+
+```
+Router(config)#ip access-list standard 20
+Router(config-std-nacl)#deny 192.168.20.0 0.0.0.255 
+Router(config-std-nacl)#permit any
+Router(config-std-nacl)#exit
+
+Router(config)#int g0/0.10
+Router(config-subif)#ip access-group 20 out
+Router(config-subif)#exit
+```
+
+![](PC0-ACL-Pings.png)
