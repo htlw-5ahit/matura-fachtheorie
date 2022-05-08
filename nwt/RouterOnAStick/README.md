@@ -6,6 +6,8 @@
 - [Pings](#pings)
 - [Access List](#access-list)
 
+![](Netzaufbau.png)
+
 ## Router
 
 ```
