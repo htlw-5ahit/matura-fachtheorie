@@ -62,4 +62,4 @@ Switch(config-if-range)#exit
 
 ## Pings
 
-![PC0-Pings.png]
+![](PC0-Pings.png)
