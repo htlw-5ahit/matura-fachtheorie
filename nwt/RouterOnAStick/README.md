@@ -4,6 +4,7 @@
 - [Switch](#switch)
 - [Computer](#computer)
 - [Pings](#pings)
+- [ACLs](#acls)
 
 ## Router
 
